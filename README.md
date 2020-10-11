@@ -1,2 +1,2 @@
 # design-patterns-training
-Brushing up fundamentals as exercise
+Brushing up fundamentals as an exercise
